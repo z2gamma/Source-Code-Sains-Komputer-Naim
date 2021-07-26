@@ -6,7 +6,6 @@ body{
 }
 #body{
 	height: 100vh;
-	font-size: 17px;
 }
 #banner{
 	background-image: url("../gambar/bus.png");
@@ -19,8 +18,7 @@ body{
 #banner-text{
 	font-size: 40px;
 }
-#p{
-	width: 40%;
-	text-align: justify;
+#form{
 	margin: 0 auto;
+	width: 60%;
 }

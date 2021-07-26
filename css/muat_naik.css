@@ -24,3 +24,13 @@ body{
 	text-align: justify;
 	margin: 0 auto;
 }
+#file{
+	width: 50%;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+#file-input{
+	border: 1px black solid;
+	padding: 10px 10px;
+	border-radius: 3px;
+}

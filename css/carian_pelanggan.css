@@ -19,8 +19,16 @@ body{
 #banner-text{
 	font-size: 40px;
 }
-#p{
-	width: 40%;
-	text-align: justify;
+#table{
+	width: 90%;
 	margin: 0 auto;
+	border: 1px black solid;
+	background: white;
+}
+#formcarian{
+	width: 80%;
+	margin: 0 auto;
+}
+#table #pelanggan td{
+	width: 25%;
 }

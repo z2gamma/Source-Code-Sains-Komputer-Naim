@@ -19,8 +19,11 @@ body{
 #banner-text{
 	font-size: 40px;
 }
-#p{
-	width: 40%;
-	text-align: justify;
+#formkategori{
+	width: 20%;
+	margin: 0 auto;
+}
+#table{
+	width: 35%;
 	margin: 0 auto;
 }

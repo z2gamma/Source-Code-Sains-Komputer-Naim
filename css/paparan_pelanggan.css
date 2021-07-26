@@ -19,8 +19,11 @@ body{
 #banner-text{
 	font-size: 40px;
 }
-#p{
-	width: 40%;
-	text-align: justify;
+#table{
+	width: 90%;
 	margin: 0 auto;
+	background: white;
+}
+#table #pelanggan td{
+	width: 25%;
 }

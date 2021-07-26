@@ -19,8 +19,14 @@ body{
 #banner-text{
 	font-size: 40px;
 }
-#p{
-	width: 40%;
-	text-align: justify;
+#form{
+	width: 60%;
 	margin: 0 auto;
 }
+#radio{
+	text-align: center;
+	border: 1px black solid;
+	padding: 20px 0px;
+	background-color: white;
+}
+
